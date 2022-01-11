@@ -1,3 +1,4 @@
+
 Dogglers - Starter Code
 ==================================
 
@@ -25,3 +26,21 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+=======
+# AAD exam prep codelabs 
+
+This is a collection of codelabs done in preparation for Associate Android Developer Certification. Each code lab is housed in a branch 
+
+
+## Tech Stack
+
+Android Studio, Kotlin, Android
+
+
+
+
+
+## Authors
+
+- [Gilbert Gotora ](https://github.com/ggotora)
+
